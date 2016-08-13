@@ -4,4 +4,4 @@ A downloader for "Digital Mechanism and Gear Library"  written in Python
 
 
 
-Example of url accepted: 'http://www.dmg-lib.org/dmglib/streambook/index.jsp?bookid=11244009'
+Example of input url: 'http://www.dmg-lib.org/dmglib/streambook/index.jsp?bookid=11244009'
